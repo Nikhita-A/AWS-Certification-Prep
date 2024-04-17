@@ -62,6 +62,8 @@ AWS  Cloud Practitioner Certification Notes
     * Wavelength zones
     * AWS Outposts
 
+![image 9](Images/image9.png)
+
 ### AWS Backup and Disaster Recovery
 
 [Refer here for complete explanation](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html)
@@ -71,3 +73,18 @@ AWS  Cloud Practitioner Certification Notes
 ![image 6](Images/image6.png)
 
 ![image 7](Images/image7.png)
+
+### AWS Shared Responsibility Model
+
+[Refer here for full explanation](https://docs.aws.amazon.com/whitepapers/latest/aws-risk-and-compliance/shared-responsibility-model.html) `IMPORTANT CONCEPT OF CERTIFICATION`
+
+![AWS Shared Responsibility Model](https://docs.aws.amazon.com/images/whitepapers/latest/aws-risk-and-compliance/images/image2.png)
+
+
+### AWS Organizations
+
+* [Refer here for AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html)
+
+* [Refer here for AWS Organizations, AWS Control Tower and Core Concepts](https://aws.amazon.com/organizations/faqs/)
+
+![image 8](Images/image8.png)
